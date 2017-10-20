@@ -29,8 +29,7 @@ import ij.plugin.filter.PlugInFilter;
 import ij.process.FloatProcessor;
 import ij.process.ImageProcessor;
 
-/* Bob Dougherty August 10, 2006
-
+/* 
 Input: 3D Distance map (32-bit stack)
 Output: Distance ridge resulting from a local scan of the distance map.  Overwrites the input.
 Note: Non-background points that are not part of the distance ridge are assiged a VERY_SMALL_VALUE.
