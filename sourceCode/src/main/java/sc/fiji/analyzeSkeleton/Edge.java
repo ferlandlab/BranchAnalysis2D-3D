@@ -1,6 +1,4 @@
 /*
- * #%L
- * AnalyzeSkeleton_ plugin for ImageJ.
  * %%
  * Copyright (C) Aditya Srinivasan.
  * %%
