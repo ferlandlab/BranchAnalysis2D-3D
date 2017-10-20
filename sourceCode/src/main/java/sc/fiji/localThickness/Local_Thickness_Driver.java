@@ -30,7 +30,7 @@ import ij.gui.GenericDialog;
 import ij.plugin.filter.PlugInFilter;
 import ij.process.ImageProcessor;
 
-/* Bob Dougherty 8/10/2007
+/* 
 Perform all of the steps for the local thickness calculaton
 
 
