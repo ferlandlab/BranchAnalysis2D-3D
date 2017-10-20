@@ -1,8 +1,6 @@
 /*
- * #%L
- * AnalyzeSkeleton_ plugin for ImageJ.
  * %%
- * Copyright (C) 2008 - 2017 Ignacio Arganda-Carreras.
+ * Copyright (C) Aditya Srinivasan.
  * %%
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as
