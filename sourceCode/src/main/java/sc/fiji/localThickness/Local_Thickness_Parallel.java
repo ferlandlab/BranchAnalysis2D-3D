@@ -28,8 +28,7 @@ import ij.ImageStack;
 import ij.plugin.filter.PlugInFilter;
 import ij.process.ImageProcessor;
 
-/* Bob Dougherty September 6, 2006
-
+/* 
 Input: Distance Ridge (32-bit stack) (Output from Distance Ridge.java)
 Output: Local Thickness.  Overwrites the input.
 Reference: T. Holdegrand and P. Ruegsegger, "A new method for the model-independent assessment of
