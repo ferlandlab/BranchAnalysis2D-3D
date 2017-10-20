@@ -29,8 +29,7 @@ import ij.plugin.filter.PlugInFilter;
 import ij.process.FloatProcessor;
 import ij.process.ImageProcessor;
 
-/* Bob Dougherty August 1, 2007
-
+/* 
 Input: 3D Local Thickness map (32-bit stack)
 Output: Same as input with border voxels corrected for "jaggies." Non-background voxels
 adjacent to background voxels are have their local thickness values replaced by the average of
