@@ -5,4 +5,4 @@ The compiled version of this algorithm is located under the folder Fiji.app. Sam
 
 Source code is in the folder sourceCode.
 
-If using this algorithm, please cite:
+If using this algorithm, please cite: Srinivasan A, Muñoz Estrada J, Bourgeois JR, Nalwalk J, Pumiglia K, Sheen V, Ferland RJ. BranchAnalysis2D/3D automates morphometry analyses of branching structures. J Neurosci Methods, 294:1-6, 2018.
