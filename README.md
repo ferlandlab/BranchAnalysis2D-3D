@@ -1,3 +1,5 @@
+This package is deprecated - please use our AutoSholl release (https://github.com/ferlandlab/AutoSholl) as that release has all the functionality contained in this one with extra labelling that can be ignored as needed.
+
 # BranchAnalysis2D-3D
 ImageJ plugin: performs morphometric analyses of structures with branching morphologies (e.g., neuronal dendritic spines, vascular morphology, and primary cilia)
 
